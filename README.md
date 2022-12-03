@@ -1,13 +1,12 @@
-## How to Get Minecraft Java For Free
+# How to Get Minecraft Java For Free
 
-  
-
-### Requirements
+## Requirements
 
 * A Decent Laptop/Desktop PC running Windows, Chromebooks will not work.
 
-### Installing Minecraft Java for Free
+## Installing Minecraft Java for Free
 * `NOTE: This version of Minecraft is completely legal, the only down sides are that you can only play Singleplayer and the rbaxTOR Server.`
+
 1. Create a SKLauncher Account at [SKMedix](https://skmedix.pl/sklauncher/register).<br /><br />
 ![Image](https://i.ibb.co/3zj1D6Y/Screenshot-from-2022-12-03-12-47-33.png)
 
@@ -24,7 +23,7 @@
 
 6. Now you can run SKLauncher and launch Minecraft!
 
-### Connecting to the rbaxTOR SMP
+## Connecting to the rbaxTOR SMP
 * `NOTE: The rbaxTOR SMP is only online when my computer is turned on, if you want to turn on the server please DM an admin on Discord.`
 
 1. First join the [rbaxTOR Discord Server](https://discord.gg/CxWqDbAZaG) to get the Java IP in the `#minecraft` channel.<br /> <br />
@@ -36,6 +35,7 @@
 ![Image](https://i.ibb.co/89Gpt0M/Screenshot-from-2022-12-03-13-34-20.png) <br /> <br />
 ![Image](https://i.ibb.co/0hcbzpS/Screenshot-from-2022-12-03-13-35-04.png)
 5. Double click on the server you just created and you should be in! <br /> <br />
-### Credits
+
+## Credits
 **SKLauncher** by SKMedix<br />
 **This Guide** by Shrekfied#2793
