@@ -2,7 +2,7 @@
 
 ## Requirements
 
-* A Decent Laptop/Desktop PC running Windows, Chromebooks will not work.
+* A Decent Laptop/Desktop PC running Windows 7+, Chromebooks will not work.
 
 ## Installing Minecraft Java for Free
 * `NOTE: This version of Minecraft is completely legal, the only down sides are that you can only play Singleplayer and the rbaxTOR Server.`
