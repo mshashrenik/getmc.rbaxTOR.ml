@@ -1,4 +1,4 @@
-# How to Get Minecraft Java For Free
+# How to Get Minecraft Java for Free
 
 ## Requirements
 
